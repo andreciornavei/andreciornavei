@@ -1,15 +1,40 @@
 ### Hello World !!!
 
 
-| Input Sheet | Redesign Starbucks  | i9xp Commerce  | Pizza Canvas | Object Painter |
-| ------------- | ------------- | ------------- | ------------- | ------------- | 
-| ![][proj_inputsheet] | ![][proj_starbucks] | ![][proj_ecommerce] | ![][proj_pizzacanvas] | ![][proj_objectpainter] |
-
-[proj_inputsheet]: https://github.com/andreciornavei/images/blob/master/flutter-input-sheet/FlutterInputSheet.gif?raw=true
-[proj_starbucks]: https://github.com/andreciornavei/images/blob/master/redesign_starbucks/redesign_starbucks.gif?raw=true
-[proj_ecommerce]: https://github.com/andreciornavei/images/blob/master/i9xp_commerce/i9xp_commerce.gif?raw=true
-[proj_pizzacanvas]: https://github.com/andreciornavei/pizza_canvas/blob/master/preview.gif?raw=true
-[proj_objectpainter]: https://github.com/andreciornavei/object_painter/blob/master/preview.gif?raw=true
+<table>
+  <tr>
+    <th>Input Sheet</th>
+    <th>Redesign Starbucks</th>
+    <th>i9xp Commerce</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/andreciornavei/images/blob/master/flutter-input-sheet/FlutterInputSheet.gif?raw=true"/>
+    </td>
+    <td>
+      <img src="https://github.com/andreciornavei/images/blob/master/redesign_starbucks/redesign_starbucks.gif?raw=true"/>
+    </td>
+    <td>
+      <img src="https://github.com/andreciornavei/images/blob/master/i9xp_commerce/i9xp_commerce.gif?raw=true"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Pizza Canvas</th>
+    <th>Object Painter</th>
+    <th>Taskip Planner</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/andreciornavei/pizza_canvas/blob/master/preview.gif?raw=true"/>
+    </td>
+    <td>
+      <img src="https://github.com/andreciornavei/object_painter/blob/master/preview.gif?raw=true"/>
+    </td>
+    <td>
+      <img src="https://github.com/andreciornavei/images/blob/master/taskitplanner.gif?raw=true"/>
+    </td>
+  </tr>
+</table>
 
 <!--
 **andreciornavei/andreciornavei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
