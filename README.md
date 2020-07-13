@@ -1,52 +1,22 @@
-### Hello World !!!
+### Hello World,
 
+This is my personal profile where i publish some apps and solutions to share my knowledgement and contribute with the community, feel free to fork my repositories, test it and see the code behind the app. 🚀
 
 <table>
   <tr>
-    <th>Input Sheet</th>
-    <th>Redesign Starbucks</th>
-    <th>i9xp Commerce</th>
+    <th>Flutter input sheet</th>
+    <th>Redesign starbucks</th>
+    <th>i9xp commerce</th>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/andreciornavei/images/blob/master/flutter-input-sheet/FlutterInputSheet.gif?raw=true"/>
+      <img src="./assets/input_sheet_github.gif?raw=true"/>
     </td>
     <td>
-      <img src="https://github.com/andreciornavei/images/blob/master/redesign_starbucks/redesign_starbucks.gif?raw=true"/>
+      <img src="./assets/redesign_starbucks_github.gif?raw=true"/>
     </td>
     <td>
-      <img src="https://github.com/andreciornavei/images/blob/master/i9xp_commerce/i9xp_commerce.gif?raw=true"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Pizza Canvas</th>
-    <th>Object Painter</th>
-    <th>Taskip Planner</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/andreciornavei/pizza_canvas/blob/master/preview.gif?raw=true"/>
-    </td>
-    <td>
-      <img src="https://github.com/andreciornavei/object_painter/blob/master/preview.gif?raw=true"/>
-    </td>
-    <td>
-      <img src="https://github.com/andreciornavei/images/blob/master/taskitplanner.gif?raw=true"/>
+      <img src="./assets/i9xp_commerce_github.gif?raw=true"/>
     </td>
   </tr>
 </table>
-
-<!--
-**andreciornavei/andreciornavei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
