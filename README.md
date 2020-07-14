@@ -1,6 +1,6 @@
 ### Hello World,
 
-This is my personal profile where i publish some apps and solutions to share my knowledgement and contribute with the community, feel free to fork my repositories, test it and see the code behind the app. 🚀
+This is my personal profile where i publish apps and solutions to share my knowledge and contribute with the community, feel free to fork my repositories, test it and see the code behind the app. 🚀
 
 <table>
   <tr>
