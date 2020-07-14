@@ -10,13 +10,13 @@ This is my personal profile where i publish apps and solutions to share my knowl
   </tr>
   <tr>
     <td>
-      <img src="./assets/input_sheet_github.gif?raw=true"/>
+      <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/input_sheet_github.gif?raw=true"/>
     </td>
     <td>
-      <img src="./assets/redesign_starbucks_github.gif?raw=true"/>
+      <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/redesign_starbucks_github.gif?raw=true"/>
     </td>
     <td>
-      <img src="./assets/i9xp_commerce_github.gif?raw=true"/>
+      <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/i9xp_commerce_github.gif?raw=true"/>
     </td>
   </tr>
 </table>
