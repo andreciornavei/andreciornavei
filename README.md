@@ -22,7 +22,7 @@ This is my personal profile where i publish apps and solutions to share my knowl
       <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/i9xp_commerce_github.gif?raw=true"/>
     </td>
   </tr>
-  <th><a href="https://github.com/andreciornavei/flutter-getx-concept" target="_blank">flutter gext concepts</a></th>
+  <th><a href="https://github.com/andreciornavei/flutter-getx-concept" target="_blank">Flutter GetX Concepts</a></th>
   <tr>
     <td>
       <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/flutter_getx_concept_github.gif?raw=true"/>
