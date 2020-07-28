@@ -23,9 +23,13 @@ This is my personal profile where i publish apps and solutions to share my knowl
     </td>
   </tr>
   <th><a href="https://github.com/andreciornavei/flutter-getx-concept" target="_blank">Flutter GetX Concepts</a></th>
+  <th><a href="https://github.com/andreciornavei/flutter-pizza" target="_blank">Flutter Pizza Planet</a></th>
   <tr>
     <td>
       <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/flutter_getx_concept_github.gif?raw=true"/>
+    </td>
+    <td>
+      <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/pizza_planet_github.gif?raw=true"/>
     </td>
   </tr>
 </table>
