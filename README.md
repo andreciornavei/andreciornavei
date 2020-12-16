@@ -24,12 +24,16 @@ This is my personal profile where i publish apps and solutions to share my knowl
   </tr>
   <th><a href="https://github.com/andreciornavei/flutter-getx-concept" target="_blank">Flutter GetX Concepts</a></th>
    <th><a href="https://github.com/andreciornavei/i9xp-commerce" target="_blank">i9xp commerce</a></th>
+   <th><a href="https://github.com/andreciornavei/socketlog" target="_blank">Socketlog</a></th>
   <tr>
     <td>
       <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/flutter_getx_concept_github.gif?raw=true"/>
     </td>
     <td>
       <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/i9xp_commerce_github.gif?raw=true"/>
+    </td>
+    <td>
+      <img src="https://github.com/andreciornavei/andreciornavei/blob/master/assets/socketlog_github.gif?raw=true"/>
     </td>
   </tr>
 </table>
