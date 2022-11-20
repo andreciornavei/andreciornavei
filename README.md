@@ -1,8 +1,7 @@
-### Hello World,
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+personal+repository!!!;Keep+learning.+The+more+you+learn,+the+more+you+need+to+learn...;Programming+languages+is+just+a+tool+to+solve+problems...;Get+excited+about+everything+you+can+do,+it's+artistic...;Enjoy+this+world.&font=Fira%20Code&center=false&width=800&height=50&color=36BCF7&duration=8000">
+# André Ciornavei
 
-[![Linkedin Badge](https://img.shields.io/badge/-André%20Ciornavei-36BCF7?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreciornavei/)](https://www.linkedin.com/in/andreciornavei/)
-[![Gmail Badge](https://img.shields.io/badge/-andre.ciornavei@gmail.com-36BCF7?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre.ciornavei@gmail.com)](mailto:andre.ciornavei@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-André%20Ciornavei-f2d017?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/andreciornavei/)](https://www.linkedin.com/in/andreciornavei/)
+[![Gmail Badge](https://img.shields.io/badge/-andre.ciornavei@gmail.com-f2d017?style=flat-square&logo=Gmail&logoColor=black&link=mailto:andre.ciornavei@gmail.com)](mailto:andre.ciornavei@gmail.com)
 
 This is my personal profile where i publish apps and solutions to share my knowledge and contribute with the community, feel free to fork my repositories, test it and see the code behind the app. 🚀
 
